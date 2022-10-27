@@ -36,7 +36,7 @@ const Home: NextPage = () => {
       style={{
         backgroundColor: colour,
       }}
-      className={`transition-all duration-[4000ms] ease-in-out flex flex-col gap-6 items-center justify-center h-screen w-screen text-5xl text-white font-bold `}
+      className={`transition-all px-6 text-center duration-[4000ms] ease-in-out flex flex-col gap-6 items-center justify-center h-screen w-screen text-6xl text-white font-bold `}
     >
       {/* <p>You have worked for {seconds}</p> */}
 
